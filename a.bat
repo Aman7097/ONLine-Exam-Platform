@@ -1,0 +1,1 @@
+python F:\Student-Management-System-PYTHON-GUI-tkinter.--master\Student_Management_System.py
